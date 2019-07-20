@@ -30,7 +30,7 @@
 21. Log each property using a template literal.
 #### Hints
 - The split method is used to split a string into an array of substrings, and returns the new array.
-##Spread Syntax
+## Spread Syntax
 22. Write a function that takes 3 parameters: name, location, favFood.
 23. Create an array with 3 values, have the values match the order of the 3 parameters. Ex. let arr = [“Paul”, “Birmingham”, “Kimchi”];
 24. Spread operators allow us to take multiple values, like an array, and insert them as 3 separate values.
