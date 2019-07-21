@@ -29,3 +29,14 @@ let bio = (name, location, favFood) => {
 
 let myArray = ['Ryan', 'Camp Dodge', 'Sushi'];
 bio(...myArray);
+
+let myName = 'Ryan McCoy';
+
+let newFunc = (n) => {
+    let string = [...n];
+    for (const i of n) {
+        console.log(i);
+    }
+}
+
+newFunc(myName);

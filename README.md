@@ -32,10 +32,10 @@
 - The split method is used to split a string into an array of substrings, and returns the new array.
 ## Spread Syntax
 22. Write a function that takes 3 parameters: name, location, favFood.$
-23. Create an array with 3 values, have the values match the order of the 3 parameters. Ex. let arr = [“Paul”, “Birmingham”, “Kimchi”];
-24. Spread operators allow us to take multiple values, like an array, and insert them as 3 separate values.
-25. Using a spread operator insert the values of the array into the function, check the console and see what appears.
-26. Create a variable that has a value of your name.
-27. Write a function that takes a parameter, name the parameter whatever you’d like.
-28. Using spread syntax, create a variable in the function that takes the string you pass into the function and spreads it into an array.
-29. Using a for loop, loop through the spread string and console log each value of the string.
+23. Create an array with 3 values, have the values match the order of the 3 parameters. Ex. let arr = [“Paul”, “Birmingham”, “Kimchi”];$
+24. Spread operators allow us to take multiple values, like an array, and insert them as 3 separate values.$
+25. Using a spread operator insert the values of the array into the function, check the console and see what appears.$
+26. Create a variable that has a value of your name.$
+27. Write a function that takes a parameter, name the parameter whatever you’d like.$
+28. Using spread syntax, create a variable in the function that takes the string you pass into the function and spreads it into an array.$
+29. Using a for loop, loop through the spread string and console log each value of the string.$
